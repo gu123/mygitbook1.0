@@ -2,5 +2,6 @@
 
 * [Introduction](README.md)
 * [service](service.md)
-    * [template](template.md)
+  * [template](service/template.md)
+
 
