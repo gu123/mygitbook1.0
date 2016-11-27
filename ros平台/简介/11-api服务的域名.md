@@ -13,6 +13,4 @@ http://ros.ai
 | Field | Type | Description |
 | --- | --- | --- |
 | dd | dd | dd |
-| dd | dd |dd  |
-|  dd| dd | dd |
 
