@@ -20,7 +20,7 @@ http://ros.ai
 
 # Code范例
 
-```go
+```css
 { 
  "reference_time":111111111111111,
  "timezone":"Asia/Shanghai", 
