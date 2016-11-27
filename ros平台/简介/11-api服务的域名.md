@@ -12,5 +12,4 @@ http://ros.ai
 
 | Field | Type | Description |
 | --- | --- | --- |
-|  |  |  |
 
