@@ -22,7 +22,7 @@ http://ros.ai
 
 ```
 { 
- "reference_time":1447499684824,
+ "reference_time":{% 1447499684824 %},
  "timezone":"Asia/Shanghai", 
  "location":{ 
      "latitude":"31.215",
@@ -32,8 +32,6 @@ http://ros.ai
 ```
 
 \*字体颜色设置
-
-
 
 # 地址链接
 
