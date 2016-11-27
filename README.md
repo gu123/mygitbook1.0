@@ -1,4 +1,4 @@
 # mygitbook1.0
 
-主要对Gitbook进行调研
+主要对**Gitbook**进行调研
 
