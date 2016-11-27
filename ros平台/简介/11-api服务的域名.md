@@ -29,5 +29,7 @@ http://ros.ai
 
 # 地址链接
 
-使用该服务需登入ros.ai如意开发者后台
+使用该服务需登入[ros.ai](http://ros.ai)如意开发者后台
+
+使用该服务需登入[ruyi.ai](http://ruyi.ai/)如意开发者后台 
 
