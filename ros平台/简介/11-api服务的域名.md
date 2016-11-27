@@ -16,7 +16,7 @@ http://ros.ai
 
 # Code范例
 
-```
+```ruby
 { 
  "reference_time":1447499684824,
  "timezone":"Asia/Shanghai", 
