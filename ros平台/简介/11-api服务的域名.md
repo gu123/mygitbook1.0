@@ -31,5 +31,5 @@ http://ros.ai
 
 若使用该服务需登入[ros.ai](http://ros.ai)开发者后台
 
-使用该服务需登入[ruyi.ai](http://ruyi.ai/)如意开发者后台 
+
 
