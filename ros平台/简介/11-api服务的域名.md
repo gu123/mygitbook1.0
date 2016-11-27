@@ -22,7 +22,7 @@ http://ros.ai
 
 ```
 { 
- "reference_time": <font color=#0099ff size=12 face="黑体"></font>,
+ "reference_time": <font color=#0099ff size=12 face="黑体">1447499684824</font>,
  "timezone":"Asia/Shanghai", 
  "location":{ 
      "latitude":"31.215",
