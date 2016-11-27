@@ -16,5 +16,19 @@ http://ros.ai
 
 # Code范例
 
+`{
 
+ **"reference\_time"**:**1447499684824**,
+
+ **"timezone"**:**"Asia\/Shanghai"**,
+
+ **"location"**:{
+
+ **"latitude"**:**"31.215"**,
+
+ **"longitude"**:**"121.609"**
+
+ }
+
+} `
 
